@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-L7N-blue?style=flat-square" alt="author">
+  <img src="https://img.shields.io/badge/Author-SizaGod-green?style=flat-square" alt="author">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Working-success?style=flat-square">
 </p>
@@ -64,7 +64,7 @@ $ python main.py
 
 ## ✍️ Author
 
-- [![Telegram](https://img.shields.io/badge/Telegram-PyL7N-0088cc?style=flat-square&logo=telegram)](https://t.me/PyL7N)
-- [![GitHub](https://img.shields.io/badge/GitHub-is--L7N-181717?style=flat-square&logo=github)](https://github.com/is-L7N)
+- [![Telegram](https://img.shields.io/badge/Telegram-SizaGod-0088cc?style=flat-square&logo=telegram)](https://t.me/SizaGods)
+- [![GitHub](https://img.shields.io/badge/GitHub-SizaDev-181717?style=flat-square&logo=github)](https://github.com/SizaDev)
 
 ---
