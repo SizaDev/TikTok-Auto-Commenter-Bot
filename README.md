@@ -11,7 +11,6 @@
 <p align="center">
   A simple TikTok bot that automatically comments on videos using your <strong>Session ID</strong>.
 </p>
-
 ---
 
 ## ⭐ Features 
