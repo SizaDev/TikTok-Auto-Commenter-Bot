@@ -1,7 +1,7 @@
 <h1 align="center">
   TikTok Auto Commenter Bot
 </h1>
- 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Author-SizaGod-green?style=flat-square" alt="author">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square">
