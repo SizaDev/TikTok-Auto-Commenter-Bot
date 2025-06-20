@@ -21,7 +21,6 @@
 - Stores comments in a JSON file for reuse
 
 ---
-
 ## ⚙️ Requirements
 
 - Python 3.7+
